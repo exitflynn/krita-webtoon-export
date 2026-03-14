@@ -1,0 +1,1 @@
+"""Krita plugin integration package."""

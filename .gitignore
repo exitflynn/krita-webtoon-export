@@ -1,0 +1,23 @@
+# Python cache/artifacts
+__pycache__/
+*.py[cod]
+*.so
+
+# Local dev install packaging metadata
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environments
+.venv/
+
+# Tool caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/
